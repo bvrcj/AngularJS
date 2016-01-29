@@ -1,0 +1,37 @@
+Why Angular JS?
+=================
+- helps you organise your java script
+
+- helps create responsive (as in fast) websites
+
+- plays well with jQuery
+
+- easy to test
+
+What is Angular JS ?
+=================-
+A client-side java script framework for adding interactivity to HTML.
+
+Directives
+===========
+A Directive is a marker on a HTML tag that tells Angular to run or reference some JS code.
+
+Modules
+=======
+Where we write pieces of our Angular applications
+
+- Makes our code more maintainable, testable, and readable.
+
+- Where we defines define dependencies for our application.
+
+Expressions
+=============
+- Allow you to insert dynamic values into your html
+
+Controllers
+===========
+Controllers are where we define our app's behaviour by defining functions and values 
+
+
+
+

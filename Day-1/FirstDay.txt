@@ -1,0 +1,54 @@
+   AngularJS
+   =========
+   It's an HTML enchanced for web apps.
+
+   Data Binding Frameworks
+   ======================
+--> Facilitate single page application development.
+
+--> MVC - Model View Controller
+
+    View <-->Controller<-->Model(Business Logic) (Service <--> repository help
+	
+	users(View) <----> Controller <--->Model
+
+--> Provide Solutions
+	a) Routing - > handling updates to the url has fragment
+	b) Templating - dynamically creating & updating HTML based on templates & models.
+	c) Data binding - synchronize the model and user interface.
+	
+-AngularJS
+-Knockout
+-Ember
+-JSViews
+-Can.js
+-Reactive	
+
+Foundation Libraries
+====================
+-underscore -> "Lo-dash"
+	-each  
+	-filter
+	-map
+	-reduce
+	
+-Backbone - First MVC Framework in java script -provides --> classes,inheritance,routing,synchronization with Backends.
+   Lot of manual work in Backbone
+      
+-jQuery - DOM manipulation in Ajax
+
+-promises - asynchronous calls   -->$q in angular 
+
+-Handle bar - Handle bars are templating Engine.
+
+   
+   
+
+
+
+
+
+	
+	
+	
+	
